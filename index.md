@@ -10,4 +10,4 @@ Masih Moloodian
 
 ### Contact
 
-[Email](masihmoloodian@gmail.com)
+masihmoloodian@gmail.com
